@@ -1,1 +1,2 @@
 Adding text for git tets
+Adding text to try new git commit
